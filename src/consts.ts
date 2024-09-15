@@ -1,4 +1,4 @@
-export const SITE_TITLE = 'Atom - A Tailus template';
-export const SITE_DESCRIPTION = 'Modern free Tailwind CSS, Astro landing page template for startups | built with Tailus Themer';
-export const SITE_URL = 'https://atom.tailus.io';
+export const SITE_TITLE = 'Sport Copilot';
+export const SITE_DESCRIPTION = 'Sport Copilot, votre coach IA de sport';
+export const SITE_URL = 'https://sportcopilot.yoandev.co';
 export const SITE_IMAGE = '/og.png';
